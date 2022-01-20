@@ -1,1 +1,1 @@
-// main code here
+import './style.css'
